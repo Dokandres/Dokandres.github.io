@@ -1,3 +1,6 @@
+title: Dokandres
+description: Projects, crazy ideas and nice things to read about virology, metal, sports and more.
+author: Dokandres
 theme: jekyll-theme-minimal
-title: First view of the webpage by Dokandres
-description: Bookmark this to keep an eye on updates of projects, crazy ideas, nice things to read and much more about virology, metal, sports and more!
+plugins:
+  - jekyll-seo-tag
